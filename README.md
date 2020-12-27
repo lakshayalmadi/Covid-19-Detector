@@ -6,5 +6,5 @@ The normal chest x-ray dataset was taken from kaggle:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 The covid positive dataset was taken from github:
-[Link to the dataset] https://github.com/ieee8023/covid-chestxray-dataset
+https://github.com/ieee8023/covid-chestxray-dataset
 
